@@ -1,6 +1,4 @@
 # Hi! Have you met Yuliya Ayukhanova?
-![barney](./assets/images/markdown/barney.png)
-___
 ## **Contacts**
 * **phone:** +7-925-885-39-19
 * **email:** ayukhanova11@gmail.com
