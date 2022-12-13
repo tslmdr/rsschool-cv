@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tslmdr.github.io/rsschool-cv/cv
